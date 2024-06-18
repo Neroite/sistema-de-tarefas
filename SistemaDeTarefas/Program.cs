@@ -25,6 +25,7 @@ namespace SistemaDeTarefas
                 builder => builder.MigrationsAssembly("SistemaDeTarefas")));
 
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+            builder.Services.AddScoped <ITarefaRepositorio, TarefaRepositorio>();
 
 
             var app = builder.Build();
