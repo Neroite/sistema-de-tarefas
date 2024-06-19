@@ -1,4 +1,6 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Refit;
 using SistemaDeTarefas.Data;
 using SistemaDeTarefas.Integracao;
@@ -6,6 +8,7 @@ using SistemaDeTarefas.Integracao.Interfaces;
 using SistemaDeTarefas.Integracao.Refit;
 using SistemaDeTarefas.Repositorios;
 using SistemaDeTarefas.Repositorios.Interfaces;
+using System.Text;
 
 namespace SistemaDeTarefas
 {
@@ -13,6 +16,8 @@ namespace SistemaDeTarefas
     {
         public static void Main(string[] args)
         {
+            string chaveSecreta = "05027c82-8ef7-4045-a9af-4f2b6d54f739";
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -36,6 +41,23 @@ namespace SistemaDeTarefas
                     c.BaseAddress = new Uri("https://viacep.com.br");
                 });
 
+            builder.Services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = "sua_empresa",
+                    ValidAudience = "sua_aplicacao",
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(chaveSecreta))
+                };
+            });
 
             var app = builder.Build();
 
@@ -48,6 +70,7 @@ namespace SistemaDeTarefas
 
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
 
