@@ -1,4 +1,10 @@
 
+using Microsoft.EntityFrameworkCore;
+using SistemaDeTarefas.Data;
+using SistemaDeTarefas.Models;
+using SistemaDeTarefas.Repositorios;
+using SistemaDeTarefas.Repositorios.Interfaces;
+
 namespace SistemaDeTarefas
 {
     public class Program
@@ -6,6 +12,12 @@ namespace SistemaDeTarefas
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<SistemaDeTarefasDBContext>(options =>
+                options.UseMySql(builder.Configuration.GetConnectionString("DataBase"),
+                ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("DataBase")),
+                builder => builder.MigrationsAssembly("SistemaDeTarefas")));
+
+            builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
             // Add services to the container.
 

@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\source\\repos\\SistemaDeTarefas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\repositorios\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Repositorios\\UsuarioRepositorio.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Repositorios\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Repositorios\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:39:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:41:45.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
