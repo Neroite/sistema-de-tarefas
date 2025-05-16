@@ -18,6 +18,8 @@ namespace SistemaDeTarefas
                 builder => builder.MigrationsAssembly("SistemaDeTarefas")));
 
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+            builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
+
 
             // Add services to the container.
 

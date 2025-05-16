@@ -51,7 +51,7 @@ namespace SistemaDeTarefas.Repositorios
 
             if (usuarioPorId == null) throw new SystemException($"Usuario para o ID: {id} não foi encontrado no banco de dados");
 
-            _dbContext.Remove(usuarioPorId);
+            _dbContext.Usuarios.Remove(usuarioPorId);
             await _dbContext.SaveChangesAsync();
             return true;
 

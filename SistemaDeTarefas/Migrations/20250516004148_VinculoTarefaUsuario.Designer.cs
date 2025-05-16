@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SistemaDeTarefas.Data;
 
@@ -11,9 +12,11 @@ using SistemaDeTarefas.Data;
 namespace SistemaDeTarefas.Migrations
 {
     [DbContext(typeof(SistemaDeTarefasDBContext))]
-    partial class SistemaDeTarefasDBContextModelSnapshot : ModelSnapshot
+    [Migration("20250516004148_VinculoTarefaUsuario")]
+    partial class VinculoTarefaUsuario
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -49,7 +52,7 @@ namespace SistemaDeTarefas.Migrations
 
                     b.HasIndex("UsuarioId");
 
-                    b.ToTable("Tarefas", (string)null);
+                    b.ToTable("Tarefas");
                 });
 
             modelBuilder.Entity("SistemaDeTarefas.Models.UsuarioModel", b =>
@@ -72,7 +75,7 @@ namespace SistemaDeTarefas.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Usuarios", (string)null);
+                    b.ToTable("Usuarios");
                 });
 
             modelBuilder.Entity("SistemaDeTarefas.Models.TarefaModel", b =>
