@@ -118,3 +118,11 @@ G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.Ext
 G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
 G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Refit.dll
 G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Refit.HttpClientFactory.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
