@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "G:\\source\\repos\\SistemaDeTarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\data\\map\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\map\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\viacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\refit\\iviacepintegracaorefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\integracao\\response\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TarefaMap.cs",
-              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\Map\\TarefaMap.cs",
-              "RelativeDocumentMoniker": "SistemaDeTarefas\\Data\\Map\\TarefaMap.cs",
-              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Data\\Map\\TarefaMap.cs",
-              "RelativeToolTip": "SistemaDeTarefas\\Data\\Map\\TarefaMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ViaCepIntegracao.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\ViaCepIntegracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:13:51.683Z",
+              "WhenOpened": "2025-05-19T23:47:37.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TarefaModel.cs",
-              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Models\\TarefaModel.cs",
-              "RelativeDocumentMoniker": "SistemaDeTarefas\\Models\\TarefaModel.cs",
-              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Models\\TarefaModel.cs",
-              "RelativeToolTip": "SistemaDeTarefas\\Models\\TarefaModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IViaCepIntegracao.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\Interfaces\\IViaCepIntegracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:16:34.794Z",
+              "WhenOpened": "2025-05-19T23:45:19.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Program.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:42:07.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IViaCepIntegracaoRefit.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\Refit\\IViaCepIntegracaoRefit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:29:57.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViaCepResponse.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Integracao\\Response\\ViaCepResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:05:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\CepController.cs",
+              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\CepController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\CepController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:02:04.019Z",
               "EditorCaption": ""
             }
           ]

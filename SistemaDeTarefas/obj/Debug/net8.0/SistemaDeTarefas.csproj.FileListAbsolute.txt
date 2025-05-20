@@ -113,3 +113,8 @@ G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\ru\Microsoft.
 G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Refit.dll
+G:\source\repos\SistemaDeTarefas\SistemaDeTarefas\bin\Debug\net8.0\Refit.HttpClientFactory.dll
