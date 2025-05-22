@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "SistemaDeTarefas",
-    "version": "1.0"
+    "title": "Sistema de Tarefas - API",
+    "version": "v1"
   },
   "paths": {
     "/api/Cep/{cep}": {
@@ -632,6 +632,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Entre com o JWT Bearer token",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

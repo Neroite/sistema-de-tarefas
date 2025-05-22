@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "G:\\source\\repos\\SistemaDeTarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|g:\\source\\repos\\sistemadetarefas\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09536402-695E-4D62-B3C7-4559E9E82FE9}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContaController.cs",
-              "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\ContaController.cs",
-              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\ContaController.cs",
-              "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Controllers\\ContaController.cs",
-              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\ContaController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T00:33:58.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
               "RelativeDocumentMoniker": "SistemaDeTarefas\\Program.cs",
               "ToolTip": "G:\\source\\repos\\SistemaDeTarefas\\SistemaDeTarefas\\Program.cs",
               "RelativeToolTip": "SistemaDeTarefas\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowDoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T23:33:05.075Z",
               "EditorCaption": ""
