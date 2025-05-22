@@ -26,6 +26,22 @@
     ]
   },
   {
+    "ContainingType": "SistemaDeTarefas.Controllers.ContaController",
+    "Method": "Login",
+    "RelativePath": "api/Conta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "SistemaDeTarefas.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SistemaDeTarefas.Controllers.TarefaController",
     "Method": "BuscarTodasTarefas",
     "RelativePath": "api/Tarefa",
